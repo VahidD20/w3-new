@@ -366,3 +366,7 @@ ul {
     position: relative;
     right: 18px;
 }
+
+.ll{
+    display: none;
+}
